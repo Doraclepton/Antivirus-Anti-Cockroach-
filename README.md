@@ -1,2 +1,2 @@
 # Antivirus-Anti-Cockroach-
-Антивирус который давит тараканов в вашей файловой системе
+An antivirus that crushes cockroaches in your file system
